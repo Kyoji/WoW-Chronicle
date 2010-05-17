@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: Chronicle
+## Notes: Periodically stores character data and screenshots
+## Author: Daniel Owens
+## Version: 0.4
+## SavedVariables: ChronicleDB
+
+embeds.xml
+
+Chronicle.lua
+ChronicleFrameConfig.lua
+Chronicle.xml
